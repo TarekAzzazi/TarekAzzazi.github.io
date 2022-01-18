@@ -1,1 +1,25 @@
+Body{
+  background-color:#589; 
+  color:#e0a8c3;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 10% 20% ;
+  
+}
+
+.exp-header{
+  color: white;
+  text-align:center;
+  text-transform:UPPERCASE ;
+  border-bottom: 3px solid black;
+
+}
+
+ul{
+  color: #dddd;
+}
+
+h1{
+  color: white 
+}
+
 
