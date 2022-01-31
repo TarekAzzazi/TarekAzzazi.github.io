@@ -1,12 +1,13 @@
 
-Body{
-  background-color: #589; 
+Body{ 
   color: #ddd;
   font-family: "Andale mono",Arial, Helvetica, sans-serif;
   margin: 10% 20% ;
-  background-image: url(https://cdn.pixabay.com/photo/2016/06/02/02/33/triangles-1430105__480.png)
-
+  background-repeat: no-repeat;
+  background: url(https://cdn.pixabay.com/photo/2016/06/02/02/33/triangles-1430105__480.png) 
 }
+
+
 .exp-header{
   color: white;
   #589
@@ -32,5 +33,3 @@ img{
   width:10%;
   float:right;
 }
-
-
